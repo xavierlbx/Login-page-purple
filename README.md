@@ -1,0 +1,1 @@
+This code is using only HTML and CSS, it's a simple and flex login page.
